@@ -11,3 +11,5 @@ To run this app locally
     "user_input": "your sample text"
   }
 }
+
+![Screenshot 2025-06-22 at 11 41 43 PM](https://github.com/user-attachments/assets/9aa15495-81c1-4d51-a344-2716e36f13e5)
